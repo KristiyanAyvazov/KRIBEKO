@@ -1,7 +1,15 @@
 package sample;
-
-import java.util.Properties;
-
+/*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+                            !!!!!IMPORTANT!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+This class was copied from http://www.tutorialspoint.com/javamail_api/javamail_api_gmail_smtp_server.htm
+and
+https://support.google.com/mail/answer/13287?hl=en
+Since google provide us for free with it, i don't think that it is illegal to use it.
+We have used jaf- 1.1 and javamail-1.4 external libraries
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+* */
+    import java.util.Properties;
 import javax.mail.Message;
 import javax.mail.MessagingException;
 import javax.mail.PasswordAuthentication;
